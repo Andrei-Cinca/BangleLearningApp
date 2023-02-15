@@ -1,0 +1,15 @@
+{ "id": "Learn Helper",
+  "name": "Better Learn",
+  "shortName":"Better Learn",
+  "version":"0.01",
+  "description": "An app that is meant to help you learn",
+  "icon": "image.png",  
+  "supports" : ["BANGLEJS2"],
+  "readme": "README.md",
+  "storage": [
+    {
+     "name":"Better Learn.app.js",
+     "url":"app.js"
+    }
+  ]
+}
